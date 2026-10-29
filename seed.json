@@ -1,0 +1,842 @@
+[
+ {
+  "id": "h1",
+  "name": "The Taj Mahal Palace",
+  "sub": "Colaba, Mumbai",
+  "rating": "4.8/5 (1,420 reviews)",
+  "badge": "Luxury Choice",
+  "img": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80",
+  "features": [
+   "Sea View",
+   "Spa & Pool",
+   "Free Breakfast",
+   "Free Wi-Fi"
+  ],
+  "oldPrice": "₹24,500",
+  "newPrice": "₹18,900",
+  "note": "Includes taxes & breakfast",
+  "category": "hotels",
+  "meta": {
+   "destinations": [
+    "mumbai",
+    "colaba"
+   ],
+   "guests": [
+    "1 room, 2 adults",
+    "2 rooms, 4 adults"
+   ]
+  }
+ },
+ {
+  "id": "h2",
+  "name": "Trident Nariman Point",
+  "sub": "Nariman Point, Mumbai",
+  "rating": "4.7/5 (980 reviews)",
+  "badge": "Best View",
+  "img": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=600&q=80",
+  "features": [
+   "Ocean Panorama",
+   "Fitness Center",
+   "Valet Parking",
+   "Fine Dining"
+  ],
+  "oldPrice": "₹16,000",
+  "newPrice": "₹12,500",
+  "note": "Exclusive discount applied",
+  "category": "hotels",
+  "meta": {
+   "destinations": [
+    "mumbai",
+    "nariman point"
+   ],
+   "guests": [
+    "1 room, 2 adults",
+    "2 rooms, 4 adults"
+   ]
+  }
+ },
+ {
+  "id": "h3",
+  "name": "The Leela Mumbai",
+  "sub": "Andheri East, Mumbai",
+  "rating": "4.6/5 (1,150 reviews)",
+  "badge": "Business Favorite",
+  "img": "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=600&q=80",
+  "features": [
+   "Near Airport",
+   "Lush Gardens",
+   "Swimming Pool",
+   "Lounge Bar"
+  ],
+  "oldPrice": "₹14,500",
+  "newPrice": "₹11,200",
+  "note": "Free airport shuttle",
+  "category": "hotels",
+  "meta": {
+   "destinations": [
+    "mumbai",
+    "andheri east",
+    "airport"
+   ],
+   "guests": [
+    "1 room, 2 adults",
+    "2 rooms, 4 adults"
+   ]
+  }
+ },
+ {
+  "id": "h4",
+  "name": "ITC Grand Central",
+  "sub": "Parel, Mumbai",
+  "rating": "4.5/5 (840 reviews)",
+  "badge": "Eco Certified",
+  "img": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=600&q=80",
+  "features": [
+   "Central Location",
+   "Award Dining",
+   "Luxury Spa",
+   "Conference Rooms"
+  ],
+  "oldPrice": "₹15,000",
+  "newPrice": "₹11,800",
+  "note": "Includes Wi-Fi & wellness access",
+  "category": "hotels",
+  "meta": {
+   "destinations": [
+    "mumbai",
+    "parel"
+   ],
+   "guests": [
+    "1 room, 2 adults",
+    "2 rooms, 4 adults"
+   ]
+  }
+ },
+ {
+  "id": "h5",
+  "name": "JW Marriott Sahar",
+  "sub": "Andheri East, Mumbai",
+  "rating": "4.8/5 (1,600 reviews)",
+  "badge": "Top Rated",
+  "img": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=600&q=80",
+  "features": [
+   "Outdoor Pool",
+   "24/7 Dining",
+   "Luxury Rooms",
+   "Valet Parking"
+  ],
+  "oldPrice": "₹19,000",
+  "newPrice": "₹15,400",
+  "note": "Complimentary breakfast included",
+  "category": "hotels",
+  "meta": {
+   "destinations": [
+    "mumbai",
+    "andheri east",
+    "sahar"
+   ],
+   "guests": [
+    "1 room, 2 adults",
+    "2 rooms, 4 adults"
+   ]
+  }
+ },
+ {
+  "id": "hd_h1",
+  "name": "The Leela Palace New Delhi",
+  "sub": "Chanakyapuri, Delhi",
+  "rating": "4.9/5 (2,100 reviews)",
+  "badge": "Luxury Choice",
+  "img": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80",
+  "features": [
+   "Rooftop Pool",
+   "Fine Dining",
+   "Free Wi-Fi",
+   "Spa"
+  ],
+  "oldPrice": "₹22,000",
+  "newPrice": "₹17,500",
+  "note": "Includes breakfast",
+  "category": "hotels",
+  "meta": {
+   "destinations": [
+    "delhi",
+    "chanakyapuri",
+    "new delhi"
+   ],
+   "guests": [
+    "1 room, 2 adults",
+    "2 rooms, 4 adults"
+   ]
+  }
+ },
+ {
+  "id": "hd_h2",
+  "name": "Taj Palace Delhi",
+  "sub": "Sardar Patel Marg, Delhi",
+  "rating": "4.8/5 (1,800 reviews)",
+  "badge": "Top Rated",
+  "img": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=600&q=80",
+  "features": [
+   "Garden View",
+   "Pool",
+   "Fitness Center",
+   "Bar"
+  ],
+  "oldPrice": "₹18,000",
+  "newPrice": "₹14,200",
+  "note": "Taxes included",
+  "category": "hotels",
+  "meta": {
+   "destinations": [
+    "delhi",
+    "sardar patel marg",
+    "new delhi"
+   ],
+   "guests": [
+    "1 room, 2 adults",
+    "2 rooms, 4 adults"
+   ]
+  }
+ },
+ {
+  "id": "hp_h1",
+  "name": "JW Marriott Hotel Pune",
+  "sub": "Senapati Bapat Road, Pune",
+  "rating": "4.8/5 (1,300 reviews)",
+  "badge": "Business Favorite",
+  "img": "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=600&q=80",
+  "features": [
+   "Rooftop Bar",
+   "Spa",
+   "Pool",
+   "Free Parking"
+  ],
+  "oldPrice": "₹13,500",
+  "newPrice": "₹10,200",
+  "note": "Free breakfast",
+  "category": "hotels",
+  "meta": {
+   "destinations": [
+    "pune",
+    "senapati bapat road"
+   ],
+   "guests": [
+    "1 room, 2 adults",
+    "2 rooms, 4 adults"
+   ]
+  }
+ },
+ {
+  "id": "hp_h2",
+  "name": "The Ritz-Carlton Pune",
+  "sub": "Yerwada, Pune",
+  "rating": "4.9/5 (950 reviews)",
+  "badge": "Luxury Choice",
+  "img": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=600&q=80",
+  "features": [
+   "Golf Course View",
+   "Spa",
+   "Fine Dining",
+   "Wi-Fi"
+  ],
+  "oldPrice": "₹17,000",
+  "newPrice": "₹13,800",
+  "note": "Includes wellness lounge access",
+  "category": "hotels",
+  "meta": {
+   "destinations": [
+    "pune",
+    "yerwada"
+   ],
+   "guests": [
+    "1 room, 2 adults",
+    "2 rooms, 4 adults"
+   ]
+  }
+ },
+ {
+  "id": "f1",
+  "name": "IndiGo (6E-532)",
+  "sub": "Mumbai (BOM) → Delhi (DEL)",
+  "rating": "4.3/5 (2,300 reviews)",
+  "badge": "On-Time Leader",
+  "img": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
+  "features": [
+   "Non-Stop",
+   "06:00 AM - 08:10 AM",
+   "7kg Cabin Baggage",
+   "Snack Included"
+  ],
+  "oldPrice": "₹6,500",
+  "newPrice": "₹4,800",
+  "note": "Fully refundable option available",
+  "category": "flights",
+  "meta": {
+   "from": [
+    "mumbai",
+    "bom"
+   ],
+   "to": [
+    "delhi",
+    "del"
+   ],
+   "airline": "indigo",
+   "cabin": [
+    "economy"
+   ]
+  }
+ },
+ {
+  "id": "f2",
+  "name": "Air India (AI-866)",
+  "sub": "Mumbai (BOM) → Delhi (DEL)",
+  "rating": "4.2/5 (1,850 reviews)",
+  "badge": "Full Service",
+  "img": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=600&q=80",
+  "features": [
+   "Non-Stop",
+   "09:30 AM - 11:45 AM",
+   "15kg Check-in",
+   "Hot Meal Included"
+  ],
+  "oldPrice": "₹8,200",
+  "newPrice": "₹6,100",
+  "note": "Includes standard meal & seat choice",
+  "category": "flights",
+  "meta": {
+   "from": [
+    "mumbai",
+    "bom"
+   ],
+   "to": [
+    "delhi",
+    "del"
+   ],
+   "airline": "air india",
+   "cabin": [
+    "economy",
+    "premium economy"
+   ]
+  }
+ },
+ {
+  "id": "f3",
+  "name": "Vistara (UK-944)",
+  "sub": "Mumbai (BOM) → Delhi (DEL)",
+  "rating": "4.7/5 (2,100 reviews)",
+  "badge": "Best Comfort",
+  "img": "https://images.unsplash.com/photo-1500835556837-99ac94a94552?auto=format&fit=crop&w=600&q=80",
+  "features": [
+   "Non-Stop",
+   "02:15 PM - 04:30 PM",
+   "Premium Service",
+   "Gourmet Dining"
+  ],
+  "oldPrice": "₹9,500",
+  "newPrice": "₹7,400",
+  "note": "Priority boarding included",
+  "category": "flights",
+  "meta": {
+   "from": [
+    "mumbai",
+    "bom"
+   ],
+   "to": [
+    "delhi",
+    "del"
+   ],
+   "airline": "vistara",
+   "cabin": [
+    "economy",
+    "premium economy",
+    "business class"
+   ]
+  }
+ },
+ {
+  "id": "f4",
+  "name": "Akasa Air (QP-110)",
+  "sub": "Mumbai (BOM) → Delhi (DEL)",
+  "rating": "4.4/5 (920 reviews)",
+  "badge": "Budget Friendly",
+  "img": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&w=600&q=80",
+  "features": [
+   "Non-Stop",
+   "07:00 PM - 09:15 PM",
+   "Modern Fleet",
+   "Café Service"
+  ],
+  "oldPrice": "₹5,800",
+  "newPrice": "₹4,200",
+  "note": "Standard web check-in",
+  "category": "flights",
+  "meta": {
+   "from": [
+    "mumbai",
+    "bom"
+   ],
+   "to": [
+    "delhi",
+    "del"
+   ],
+   "airline": "akasa air",
+   "cabin": [
+    "economy"
+   ]
+  }
+ },
+ {
+  "id": "fp1",
+  "name": "IndiGo (6E-241)",
+  "sub": "Mumbai (BOM) → Pune (PNQ)",
+  "rating": "4.4/5 (850 reviews)",
+  "badge": "Direct Flight",
+  "img": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80",
+  "features": [
+   "Non-Stop",
+   "10:00 AM - 10:50 AM",
+   "7kg Cabin Baggage"
+  ],
+  "oldPrice": "₹4,200",
+  "newPrice": "₹3,100",
+  "note": "Short duration route",
+  "category": "flights",
+  "meta": {
+   "from": [
+    "mumbai",
+    "bom"
+   ],
+   "to": [
+    "pune",
+    "pnq"
+   ],
+   "airline": "indigo",
+   "cabin": [
+    "economy"
+   ]
+  }
+ },
+ {
+  "id": "fp2",
+  "name": "Air India (AI-842)",
+  "sub": "Delhi (DEL) → Pune (PNQ)",
+  "rating": "4.5/5 (1,100 reviews)",
+  "badge": "Popular Choice",
+  "img": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=600&q=80",
+  "features": [
+   "Non-Stop",
+   "04:00 PM - 06:10 PM",
+   "Meal Included"
+  ],
+  "oldPrice": "₹7,100",
+  "newPrice": "₹5,400",
+  "note": "Includes check-in baggage",
+  "category": "flights",
+  "meta": {
+   "from": [
+    "delhi",
+    "del"
+   ],
+   "to": [
+    "pune",
+    "pnq"
+   ],
+   "airline": "air india",
+   "cabin": [
+    "economy"
+   ]
+  }
+ },
+ {
+  "id": "t1",
+  "name": "Vande Bharat Express (22221)",
+  "sub": "Mumbai CSMT → Delhi NZM",
+  "rating": "4.8/5 (3,400 reviews)",
+  "badge": "Fastest Train",
+  "img": "https://images.unsplash.com/photo-1515165562839-978bbcfc926e?auto=format&fit=crop&w=600&q=80",
+  "features": [
+   "Chair Car & Executive",
+   "Onboard Catering",
+   "Wi-Fi Enabled",
+   "Automatic Doors"
+  ],
+  "oldPrice": "₹2,900",
+  "newPrice": "₹2,450",
+  "note": "Pantry car included in fare",
+  "category": "trains",
+  "meta": {
+   "from": [
+    "mumbai",
+    "mumbai csmt"
+   ],
+   "to": [
+    "delhi",
+    "delhi nzm"
+   ],
+   "classes": [
+    "vande bharat (cc/ec)"
+   ]
+  }
+ },
+ {
+  "id": "t2",
+  "name": "Rajdhani Express (12951)",
+  "sub": "Mumbai Central → New Delhi",
+  "rating": "4.6/5 (4,100 reviews)",
+  "badge": "Reliable Classic",
+  "img": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=600&q=80",
+  "features": [
+   "1A, 2A, 3A Berths",
+   "All Meals Included",
+   "Bedroll Provided",
+   "Priority Schedule"
+  ],
+  "oldPrice": "₹3,500",
+  "newPrice": "₹3,100",
+  "note": "Dinner, breakfast & evening tea included",
+  "category": "trains",
+  "meta": {
+   "from": [
+    "mumbai",
+    "mumbai central"
+   ],
+   "to": [
+    "delhi",
+    "new delhi"
+   ],
+   "classes": [
+    "1st ac (1a)",
+    "2nd ac (2a)"
+   ]
+  }
+ },
+ {
+  "id": "t3",
+  "name": "Tejas Express (22119)",
+  "sub": "Mumbai CSMT → Karmali Goa",
+  "rating": "4.5/5 (1,250 reviews)",
+  "badge": "Premium Service",
+  "img": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?auto=format&fit=crop&w=600&q=80",
+  "features": [
+   "Executive Seating",
+   "Personal Screens",
+   "Catering Service",
+   "Safe Travel"
+  ],
+  "oldPrice": "₹2,200",
+  "newPrice": "₹1,850",
+  "note": "High speed rail experience",
+  "category": "trains",
+  "meta": {
+   "from": [
+    "mumbai",
+    "mumbai csmt"
+   ],
+   "to": [
+    "goa",
+    "karmali goa"
+   ],
+   "classes": []
+  }
+ },
+ {
+  "id": "tp1",
+  "name": "Deccan Queen (12123)",
+  "sub": "Mumbai CSMT → Pune Jn",
+  "rating": "4.7/5 (2,800 reviews)",
+  "badge": "Daily Express",
+  "img": "https://images.unsplash.com/photo-1515165562839-978bbcfc926e?auto=format&fit=crop&w=600&q=80",
+  "features": [
+   "Dining Car",
+   "CC & EC Seating",
+   "Punctual"
+  ],
+  "oldPrice": "₹650",
+  "newPrice": "₹480",
+  "note": "Scenic Western Ghats route",
+  "category": "trains",
+  "meta": {
+   "from": [
+    "mumbai",
+    "mumbai csmt"
+   ],
+   "to": [
+    "pune",
+    "pune jn"
+   ],
+   "classes": [
+    "vande bharat (cc/ec)"
+   ]
+  }
+ },
+ {
+  "id": "tp2",
+  "name": "Pune Duronto Express (12263)",
+  "sub": "Delhi NZM → Pune Jn",
+  "rating": "4.6/5 (1,900 reviews)",
+  "badge": "Superfast",
+  "img": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=600&q=80",
+  "features": [
+   "1A, 2A, 3A AC",
+   "Meals Included",
+   "Clean Berths"
+  ],
+  "oldPrice": "₹2,800",
+  "newPrice": "₹2,250",
+  "note": "Fastest connection from Delhi",
+  "category": "trains",
+  "meta": {
+   "from": [
+    "delhi",
+    "delhi nzm"
+   ],
+   "to": [
+    "pune",
+    "pune jn"
+   ],
+   "classes": [
+    "1st ac (1a)",
+    "2nd ac (2a)"
+   ]
+  }
+ },
+ {
+  "id": "b1",
+  "name": "Neeta Travels AC Sleeper",
+  "sub": "Mumbai → Pune (Swargate)",
+  "rating": "4.4/5 (1,900 reviews)",
+  "badge": "Top Bus Operator",
+  "img": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&w=600&q=80",
+  "features": [
+   "AC Sleeper Berths",
+   "Charging Port",
+   "Reading Light",
+   "Live Tracking"
+  ],
+  "oldPrice": "₹950",
+  "newPrice": "₹750",
+  "note": "Multiple pickup points across Mumbai",
+  "category": "buses",
+  "meta": {
+   "from": [
+    "mumbai"
+   ],
+   "to": [
+    "pune",
+    "swargate"
+   ],
+   "types": [
+    "ac sleeper (2+1)"
+   ]
+  }
+ },
+ {
+  "id": "b2",
+  "name": "Zingbus Luxury Volvo",
+  "sub": "Mumbai → Pune (Wakad)",
+  "rating": "4.5/5 (1,400 reviews)",
+  "badge": "Comfort Assured",
+  "img": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=600&q=80",
+  "features": [
+   "Volvo Seater/Sleeper",
+   "Wi-Fi Onboard",
+   "Water Bottle",
+   "Blanket Provided"
+  ],
+  "oldPrice": "₹1,100",
+  "newPrice": "₹890",
+  "note": "On-time guarantee policy",
+  "category": "buses",
+  "meta": {
+   "from": [
+    "mumbai"
+   ],
+   "to": [
+    "pune",
+    "wakad"
+   ],
+   "types": [
+    "ac volvo seater"
+   ]
+  }
+ },
+ {
+  "id": "b3",
+  "name": "Purple Metrolink",
+  "sub": "Mumbai → Pune (Station)",
+  "rating": "4.2/5 (980 reviews)",
+  "badge": "Frequent Runs",
+  "img": "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=600&q=80",
+  "features": [
+   "AC Semi-Sleeper",
+   "Luggage Space",
+   "Sanitized Bus",
+   "SOS Support"
+  ],
+  "oldPrice": "₹850",
+  "newPrice": "₹680",
+  "note": "Hourly departures available",
+  "category": "buses",
+  "meta": {
+   "from": [
+    "mumbai"
+   ],
+   "to": [
+    "pune",
+    "station"
+   ],
+   "types": [
+    "ac semi-sleeper"
+   ]
+  }
+ },
+ {
+  "id": "bd1",
+  "name": "Laxmi Holidays Volvo",
+  "sub": "Delhi (Kashmere Gate) → Pune",
+  "rating": "4.5/5 (1,100 reviews)",
+  "badge": "Long Distance AC",
+  "img": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=600&q=80",
+  "features": [
+   "AC Multi-Axle Sleeper",
+   "Personal Screens",
+   "Rest Stops"
+  ],
+  "oldPrice": "₹2,500",
+  "newPrice": "₹1,950",
+  "note": "Overnight journey",
+  "category": "buses",
+  "meta": {
+   "from": [
+    "delhi",
+    "kashmere gate"
+   ],
+   "to": [
+    "pune"
+   ],
+   "types": [
+    "ac sleeper (2+1)"
+   ]
+  }
+ },
+ {
+  "id": "c1",
+  "name": "Cordelia Cruises - Empress",
+  "sub": "Mumbai → Goa → Mumbai",
+  "rating": "4.7/5 (890 reviews)",
+  "badge": "Luxury Sailing",
+  "img": "https://images.unsplash.com/photo-1548574505-5e239809ee19?auto=format&fit=crop&w=600&q=80",
+  "features": [
+   "3 Nights / 4 Days",
+   "All Meals Included",
+   "Casino & Shows",
+   "Ocean View Room"
+  ],
+  "oldPrice": "₹45,000",
+  "newPrice": "₹34,500",
+  "note": "Port taxes included upfront",
+  "category": "cruises",
+  "meta": {
+   "from": [
+    "mumbai"
+   ],
+   "to": [
+    "goa"
+   ],
+   "cabins": [
+    "ocean view stateroom"
+   ]
+  }
+ },
+ {
+  "id": "c2",
+  "name": "Cordelia Luxury Islands Voyage",
+  "sub": "Mumbai → High Seas → Kochi",
+  "rating": "4.8/5 (620 reviews)",
+  "badge": "Ultimate Escape",
+  "img": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=600&q=80",
+  "features": [
+   "4 Nights / 5 Days",
+   "Balcony Suite Upgrade",
+   "Fine Dining",
+   "Live Entertainment"
+  ],
+  "oldPrice": "₹62,000",
+  "newPrice": "₹49,000",
+  "note": "Special onboard credit included",
+  "category": "cruises",
+  "meta": {
+   "from": [
+    "mumbai"
+   ],
+   "to": [
+    "kochi",
+    "high seas"
+   ],
+   "cabins": [
+    "balcony suite"
+   ]
+  }
+ },
+ {
+  "id": "hd1",
+  "name": "Goa Sun & Sand Escape",
+  "sub": "3 Nights / 4 Days Beach Package",
+  "rating": "4.7/5 (1,120 reviews)",
+  "badge": "Bestseller",
+  "img": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=600&q=80",
+  "features": [
+   "Flights Included",
+   "Beach Resort Stay",
+   "Airport Transfers",
+   "Sightseeing Tour"
+  ],
+  "oldPrice": "₹22,000",
+  "newPrice": "₹16,500",
+  "note": "Per person on twin sharing",
+  "category": "holidays",
+  "meta": {
+   "destinations": [
+    "goa"
+   ],
+   "durations": [
+    "3 nights / 4 days"
+   ],
+   "packages": [
+    "all inclusive",
+    "beach & relax"
+   ]
+  }
+ },
+ {
+  "id": "hd2",
+  "name": "Kashmir Paradise Tour",
+  "sub": "5 Nights / 6 Days Houseboat & Hotel",
+  "rating": "4.9/5 (1,540 reviews)",
+  "badge": "Scenic Masterpiece",
+  "img": "https://images.unsplash.com/photo-1595815771614-ade9d652a65d?auto=format&fit=crop&w=600&q=80",
+  "features": [
+   "Dal Lake Houseboat",
+   "Gulmarg Gondola",
+   "All Meals & Transfers",
+   "Guided Tours"
+  ],
+  "oldPrice": "₹38,000",
+  "newPrice": "₹29,900",
+  "note": "Includes all permits & entry fees",
+  "category": "holidays",
+  "meta": {
+   "destinations": [
+    "kashmir"
+   ],
+   "durations": [
+    "5 nights / 6 days"
+   ],
+   "packages": [
+    "all inclusive",
+    "heritage"
+   ]
+  }
+ }
+]
