@@ -6,6 +6,8 @@ TravelBloom brings multiple travel options into one interface: browse listings, 
 
 Project status: Educational/demo application. Payments are simulated; no real money is processed. Do not use this project to handle real bookings, credentials, or payments.
 
+Inspiration: MakeMyTrip, Agoda
+
 
 
  Features:
